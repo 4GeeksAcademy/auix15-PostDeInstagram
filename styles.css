@@ -15,8 +15,8 @@ body {
 .post {
   width: 25%;
   height: 25%;
-  margin: 5% 5% 5% 5%;
-  padding: 5% 5% 5% 5%;
+  margin: 5%;
+  padding: 5%;
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
